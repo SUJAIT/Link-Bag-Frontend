@@ -27,8 +27,8 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 900, margin: '0 auto', padding: 16, fontFamily: 'system-ui' }}>
-      <h1>🔗 LinkBag</h1>
-      <p>Paste, search, open, delete, generate QR — all powered by your Node + MongoDB backend.</p>
+      <h1>🔗 LinkBag 🛍️</h1>
+      <p>This is Link-Bag ... Only For SUJAIT</p>
       <AddLink onAdded={load} />
       <input
         placeholder="Search links..."
