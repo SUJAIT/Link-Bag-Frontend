@@ -76,7 +76,7 @@ export default function App() {
           <button className="btn ghost" onClick={() => setTheme(t => t === 'light' ? 'dark' : 'light')}>
             {theme === 'light' ? '🌙 Dark' : '☀️ Light'}
           </button>
-          <a className="btn accent" href={import.meta.env.VITE_API_URL} target="_blank" rel="noreferrer">API</a>
+          <a className="btn accent" href="https://drive.google.com/drive/folders/1pT2vnKZr2TzNTIiXmOA0_JHf5U5E76xX?usp=sharing" target="_blank" rel="noreferrer">Data</a>
         </div>
       </header>
 
